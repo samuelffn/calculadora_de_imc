@@ -1,7 +1,7 @@
 # calculadora_de_imc
-Projeto em Flutter para calcular o IMC.  
-Projeto do curso da Udemy.  
-Projeto de estudos.
+Projeto em Flutter para calcular o IMC  
+Projeto do curso da Udemy  
+Projeto de estudos
 
 # calculadora_imc.  
 A new Flutter application.
